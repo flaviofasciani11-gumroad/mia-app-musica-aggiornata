@@ -1,0 +1,3 @@
+- [x] Ricerca libera degli artisti con risultati selezionabili.
+- [x] Pagina artista con top 5, discografia e ultime uscite da fonti musicali, senza inventare ascolti globali.
+- [ ] Verificare navigazione e risultato su schermi piccoli e grandi.
